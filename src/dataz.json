@@ -1,0 +1,65 @@
+{
+    "products": [
+        {
+            "_id":"d1",
+            "status": 2,
+            "published_at": "2021-06-17 08:40:52",
+            "message": "Lorem ipsum dolor sit amet, consecteturat \r\nadipiscing elit, sed do eiusmod.",
+            "image":"https://s3-eu-west-1.amazonaws.com/a6apptest/public/files/58bab4018803fa0008413733_0A0szw7OSDIVt2rq80.jpeg", 
+            "name":"Social Orientation", 
+            "link": "https://twitter.com/smorientation",
+            "channel": "twitter" 
+        },
+        {
+            "_id":"d2",
+            "status": 1,
+            "published_at": "2021-06-17 08:40:52",
+            "message": "Lorem ipsum dolor sit amet, consecteturat\r\n adipiscing elit, sed do eiusmod tempor \r\nincididunt? http://bit.ly/145HD7S ",
+            "image":null,
+            "name":"Social Orientation", 
+            "link": "https://www.instagram.com/p/CQNwbu4K7DU/",
+            "channel": "instagrambusiness"
+        },
+        {
+            "_id":"d3",
+            "status": 0,
+            "published_at": "2021-06-17 08:40:50",
+            "message": "Lorem ipsum dolor sit amet, consecteturat \r\nadipiscing elit, sed do eiusmod.",
+            "image": "https://s3-eu-west-1.amazonaws.com/a6apptest/public/files/58bab4018803fa0008413733_oD3qc1vlVTmg8pwWaJ.jpeg", 
+            "name":"Social Orientation", 
+            "link": "https://www.facebook.com/471462903187593",
+            "channel": "facebook"
+        },
+        {
+            "_id":"d4",
+            "status": 4,
+            "published_at": "2021-07-01 00:00:00",
+            "message": "Lorem ipsum dolor sit amet, consecteturat \r\nadipiscing elit, sed do eiusmod.",
+            "image":"https://s3-eu-west-1.amazonaws.com/a6apptest/public/files/58bab4018803fa0008413733_0A0szw7OSDIVt2rq80.jpeg", 
+            "name":"Social Orientation", 
+            "link": "https://www.instagram.com/socialorientation_test",
+            "channel": "instagrambusiness"
+        },
+        {
+            "_id":"d5",
+            "status": 3,
+            "published_at": "2021-07-06 00:20:00",
+            "message": "Lorem ipsum dolor sit amet, consecteturat \r\nadipiscing elit, sed do eiusmod.",
+            "image":"https://s3-eu-west-1.amazonaws.com/a6apptest/public/files/58bab4018803fa0008413733_qPJUrz2XxgneyAplXE.jpeg",
+            "name":"Social Orientation", 
+            "link": "https://twitter.com/smorientation",
+            "channel": "twitter"
+        },
+        {
+            "_id":"d6",
+            "status": 6,
+            "published_at": "2021-07-11 10:45:47",
+            "message": "Lorem ipsum dolor sit amet, consecteturat \r\nadipiscing elit, sed do eiusmod.",
+            "image":"https://s3-eu-west-1.amazonaws.com/a6apptest/public/files/58bab4018803fa0008413733_0A0szw7OSDIVt2rq80.jpeg", 
+            "name":"Social Orientation", 
+            "link": "https://www.facebook.com/471462903187593",
+            "channel": "facebook"
+        }
+        
+    ]
+}
